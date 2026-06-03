@@ -1,0 +1,10 @@
+{
+  "name": "farcaster-neynar-channel-bot",
+  "version": "1.0.0",
+  "description": "Autonomous Farcaster channel indexing and moderation bot using Neynar",
+  "main": "channelBot.js",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}
